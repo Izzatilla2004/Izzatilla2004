@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Izzatilla2004
+- 👋 Hi, I’m @Izzat
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on 
